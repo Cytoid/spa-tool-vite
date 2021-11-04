@@ -1,6 +1,7 @@
 {
   "name": "spa-tool-vite",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "preload": "node preload.js",
     "tailwindcss": "postcss tailwind.css -o dist/tailwind.css",
